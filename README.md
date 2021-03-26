@@ -31,8 +31,8 @@ The challenge was to build out a profile card component and get it looking as cl
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository URL here](https://github.com/Isenraf/Isenraf.profile-card-component.github.io)
+- Live Site URL: [Live site URL here](https://isenraf.github.io/Isenraf.profile-card-component.github.io/)
 
 ## My process
 
@@ -90,7 +90,6 @@ img {
 
 - [Css Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - This helped me to better place my contents on the grid.
 - [Mozilla Developer Center](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids) - This is a good article for who wants to understand the fundamentals of grid layout. I'd recommend it to anyone still learning this concept.
--
 
 ## Author
 
